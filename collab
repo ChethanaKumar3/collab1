@@ -1,0 +1,3 @@
+collaboration and remote repositories
+$ git checkout master
+$ git merge feature branch _m "your custom commit msg here"
